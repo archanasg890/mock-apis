@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "archana@gmail.com",
+      "firstName": "Archana",
+      "lastName": "Patil",
+      "password": "Abcd@1234567",
+      "token": "archana@gmail.comPatil",
+      "id": 1
+    }
+  ]
+}
